@@ -1,0 +1,11 @@
+# Chứa token đăng nhập - KHÔNG đẩy lên git
+accounts.json
+*.log
+
+venv/
+venv-win/
+build/
+dist/
+*.spec
+__pycache__/
+.DS_Store
